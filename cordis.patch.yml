@@ -1,1 +1,3 @@
-LSBpbnNlcnQ6CiAgICAtIGlkOiBjaHVkYWktcGF0cm9sCiAgICAgIG5hbWU6IGRzaC1wbHVnaW4tY2h1ZGFpLXBhdHJvbAo=
+- insert:
+    - id: chudai-patrol
+      name: dsh-plugin-chudai-patrol

@@ -1,1 +1,164 @@
-Ly8g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCi8vIGRzaC1wbHVnaW4tY2h1ZGFpLXBhdHJvbCDCtyDlt6Hmo4Dlj7jlrr/kuLvlhaXlj6MKLy8KLy8g44CQ5a6D5piv5LuA5LmI44CRCi8vICAgRFNIIOWGhemDqOeahOeci+mXqOeLl+OAgjYg6aG55YGl5bq35beh5qOAICsg6Z2i5p2/ICsg5bel5YW344CCCi8vCi8vIOOAkOS4jiBkYWVtb24tZ3VhcmRpYW4g55qE5YiG5bel77yI6YeN6KaB77yJ44CRCi8vICAgwrcgY29yZS9tZW1vcnktdjIvZGFlbW9uLWd1YXJkaWFuLm1qc++8iOeLrOeri+i/m+eoi++8iQovLyAgICAgICDigJTigJQg566h44CM6L+b56iL5rS7552A5ZCX44CN77yM5q275LqG5bCx5ouJ6LW377yMN3gyNCDkuI3kvp3otZYgRFNICi8vICAgwrcg5pys5o+S5Lu277yI6LefIERTSCDnlJ/lkb3lkajmnJ/otbDvvIkKLy8gICAgICAg4oCU4oCUIOeuoeOAjERTSCDlhoXpg6jlgaXlurflkJfjgI3vvIzlj6rnnIvkuI3mi4notbfvvIxEU0gg5YGc5LqG5bCx5YGcCi8vICAg4piF5LiN5piv5pu/5Luj5YWz57O777yM5piv5LqS6KGl77yaZ3VhcmRpYW4g566h6L+b56iL77yMcGF0cm9sIOeuoeWKn+iDvQovLwovLyDjgJDor5rlrp7ovrnnlYzjgJEKLy8gICDCtyDlj6rnnIvkuI3mlLnvvIjopoHkv67otbAgaGVhbCAvIOmdkuWkqemXuO+8iQovLyAgIMK3IERTSCDlgZzkuobmnKzmj5Lku7bkuZ/lgZwg4oCU4oCUIOaJgOS7peWug+aVkeS4jeS6hiBEU0gg5pys6LqrCi8vICAgwrcg5qOA5p+l5pys6Lqr5Y+v6IO96K+v5oql77yM5q+P6aG56YO95qCH5rOo5Yik5o2uCi8vCi8vIOOAkDIwMjYtMTEtMDEg6KGh5L+uIMK3IOS4uuS7gOS5iOaUueOAkQovLyAgIOWOn+eJiOeUqOeahOaYryBgY3R4LnRvb2woey4uLn0pYCDlkowgYGN0eC5yb3V0ZXIucG9zdC9nZXQoLi4uKWDvvIzov5nkuKTkuKrlnKggcmMuNSDpg73kuI3lrZjlnKgKLy8gICDvvIhyYy41IOeahOato+ehruWnv+WKv++8mmN0eC50b29scy5yZWdpc3RlciguLi4pIC8gY3R4LndlYlNlcnZlci5yZWdpc3Rlcih7a2luZDoncHJlZml4J30p77yMCi8vICAgIOingSBicmFpbmNvcmUg5LiOIHdvcmtiZW5jaCDkuKTkuKrlt7LkuIrnur/mj5Lku7bvvInjgILljp/niYjov5jmvI/kuoYgZXhwb3J0IGNvbnN0IGluamVjdOOAggovLyAgIOKHkiDnhacgcmMuNSDlpZHnuqbph43lhpnov5nkuKTlpITvvJtjb3JlL3BhdHJvbC5janMg5Yqg6L295aSx6LSl5pe26ZmN57qn5oiQIuWmguWunuaKpemUmSLvvIzkuI3orqnmlbTkuKrmj5Lku7bmjILjgIIKLy8g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7IGNyZWF0ZVJlcXVpcmUgfSBmcm9tICdub2RlOm1vZHVsZSc7Cgpjb25zdCBQTFVHSU5fSUQgPSAnY2h1ZGFpLXBhdHJvbCc7CmNvbnN0IFZFUlNJT04gPSAnMC4xLjAnOwpjb25zdCBfX2Rpcm5hbWUgPSBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgcmVxdWlyZSA9IGNyZWF0ZVJlcXVpcmUoaW1wb3J0Lm1ldGEudXJsKTsKCi8vIOKYhWNvcmUg57y65aSx5LiN6IO96K6p5o+S5Lu25oyC77ya5ou/5LiN5Yiw5bCx55u05o6l5oql6ZSZ5a2X56ym5Liy77yM6Lev55Sx5ZKM5bel5YW354Wn5bi45rOo5YaMCmxldCBwYXRyb2xDb3JlID0gbnVsbDsKbGV0IGNvcmVFcnJvciA9ICcnOwp0cnkgewogIHBhdHJvbENvcmUgPSByZXF1aXJlKHBhdGguam9pbihfX2Rpcm5hbWUsICdjb3JlJywgJ3BhdHJvbC5janMnKSk7Cn0gY2F0Y2ggKGUpIHsKICBjb3JlRXJyb3IgPSBTdHJpbmcoKGUgJiYgZS5tZXNzYWdlKSB8fCBlKS5zbGljZSgwLCAzMDApOwp9CgpmdW5jdGlvbiB0ZXh0QmxvY2tzKHZhbHVlKSB7CiAgcmV0dXJuIFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogSlNPTi5zdHJpbmdpZnkodmFsdWUgPT0gbnVsbCA/IHt9IDogdmFsdWUsIG51bGwsIDIpIH1dOwp9CgpmdW5jdGlvbiBydW5QYXRyb2wob3B0cykgewogIGlmICghcGF0cm9sQ29yZSB8fCB0eXBlb2YgcGF0cm9sQ29yZS5wYXRyb2wgIT09ICdmdW5jdGlvbicpIHsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6ICdjb3JlL3BhdHJvbC5janMg5pyq5Yqg6L29OiAnICsgY29yZUVycm9yIH07CiAgfQogIHRyeSB7CiAgICByZXR1cm4gcGF0cm9sQ29yZS5wYXRyb2wob3B0cyB8fCB7fSk7CiAgfSBjYXRjaCAoZSkgewogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogU3RyaW5nKChlICYmIGUubWVzc2FnZSkgfHwgZSkuc2xpY2UoMCwgMzAwKSB9OwogIH0KfQoKY29uc3QgUEFUUk9MX1JVTl9UT09MID0gewogIG5hbWU6ICdwYXRyb2xfcnVuJywKICBkZXNjcmlwdGlvbjogJ+W3oeajgOWPuCDCtyDot5HkuIDmrKEgRFNIIOWGhemDqOWBpeW6t+W3oeajgO+8iDYg6aG577ya5o+S5Lu25Yqg6L29L+S8muivneWBpeW6ty/orrDlv4bmlrDpspzluqYv5bel5YW35Y+v55So5oCnL+eci+mXqOeLl+eKtuaAgS9kYWVtb24g54q25oCB77yJ44CC4piF5Y+q55yL5LiN5pS544CCJywKICBwYXJhbWV0ZXJzOiB7CiAgICB0eXBlOiAnb2JqZWN0JywKICAgIHByb3BlcnRpZXM6IHsKICAgICAgc2tpcDogeyB0eXBlOiAnYXJyYXknLCBpdGVtczogeyB0eXBlOiAnc3RyaW5nJyB9LCBkZXNjcmlwdGlvbjogJ+i3s+i/h+eahOajgOafpSBpZO+8iOWPr+mAie+8iScgfSwKICAgIH0sCiAgfSwKICBhc3luYyBleGVjdXRlKGFyZ3MpIHsKICAgIGNvbnN0IHIgPSBydW5QYXRyb2woeyBza2lwOiAoYXJncyAmJiBhcmdzLnNraXApIHx8IFtdIH0pOwogICAgcmV0dXJuIHsgY29udGVudDogdGV4dEJsb2NrcyhyKSwgaXNFcnJvcjogciAmJiByLm9rID09PSBmYWxzZSA/IHRydWUgOiB1bmRlZmluZWQgfTsKICB9LAp9OwoKY29uc3QgUEFUUk9MX09ORV9UT09MID0gewogIG5hbWU6ICdwYXRyb2xfb25lJywKICBkZXNjcmlwdGlvbjogJ+W3oeajgOWPuCDCtyDlj6rot5Hmn5DkuIDpobnmo4Dmn6XjgIJpZDogcGx1Z2lucyB8IHNlc3Npb25zIHwgbWVtb3J5IHwgdG9vbHMgfCBndWFyZGlhbiB8IGRhZW1vbicsCiAgcGFyYW1ldGVyczogewogICAgdHlwZTogJ29iamVjdCcsCiAgICBwcm9wZXJ0aWVzOiB7CiAgICAgIGlkOiB7IHR5cGU6ICdzdHJpbmcnLCBkZXNjcmlwdGlvbjogJ+ajgOafpSBpZCcgfSwKICAgIH0sCiAgICByZXF1aXJlZDogWydpZCddLAogICAgfSwKICBhc3luYyBleGVjdXRlKGFyZ3MpIHsKICAgIGNvbnN0IGlkID0gYXJncyAmJiBhcmdzLmlkOwogICAgaWYgKCFwYXRyb2xDb3JlIHx8IHR5cGVvZiBwYXRyb2xDb3JlLnBhdHJvbCAhPT0gJ2Z1bmN0aW9uJykgewogICAgICByZXR1cm4geyBjb250ZW50OiB0ZXh0QmxvY2tzKHsgZXJyb3I6ICdjb3JlL3BhdHJvbC5janMg5pyq5Yqg6L29OiAnICsgY29yZUVycm9yIH0pLCBpc0Vycm9yOiB0cnVlIH07CiAgICB9CiAgICBjb25zdCBtYXAgPSB7CiAgICAgIHBsdWdpbnM6IHBhdHJvbENvcmUuY2hlY2tQbHVnaW5zLAogICAgICBzZXNzaW9uczogcGF0cm9sQ29yZS5jaGVja1Nlc3Npb25zLAogICAgICBtZW1vcnk6IHBhdHJvbENvcmUuY2hlY2tNZW1vcnksCiAgICAgIHRvb2xzOiBwYXRyb2xDb3JlLmNoZWNrVG9vbHMsCiAgICAgIGd1YXJkaWFuOiBwYXRyb2xDb3JlLmNoZWNrR3VhcmRpYW4sCiAgICAgIGRhZW1vbjogcGF0cm9sQ29yZS5jaGVja0RhZW1vbiwKICAgIH07CiAgICBjb25zdCBmbiA9IG1hcFtpZF07CiAgICBpZiAodHlwZW9mIGZuICE9PSAnZnVuY3Rpb24nKSB7CiAgICAgIHJldHVybiB7IGNvbnRlbnQ6IHRleHRCbG9ja3MoeyBlcnJvcjogJ+acquefpSBpZDogJyArIGlkLCB2YWxpZDogT2JqZWN0LmtleXMobWFwKSB9KSwgaXNFcnJvcjogdHJ1ZSB9OwogICAgfQogICAgdHJ5IHsgcmV0dXJuIHsgY29udGVudDogdGV4dEJsb2NrcyhmbigpKSB9OyB9CiAgICBjYXRjaCAoZSkgeyByZXR1cm4geyBjb250ZW50OiB0ZXh0QmxvY2tzKHsgZXJyb3I6IFN0cmluZygoZSAmJiBlLm1lc3NhZ2UpIHx8IGUpLnNsaWNlKDAsIDMwMCkgfSksIGlzRXJyb3I6IHRydWUgfTsgfQogIH0sCn07CgpleHBvcnQgY29uc3QgbmFtZSA9IFBMVUdJTl9JRDsKLy8g4piFMjAyNi0xMS0wMSDooaHkv67vvJppbmplY3Qg5Y+q55WZIHdlYlNlcnZlcu+8iOS4jiB3b3JrYmVuY2gg5a6M5YWo5ZCM5p6E77yJ44CCCi8vICAg5Y6f5p2l5YaZIFsnd2ViU2VydmVyJywndG9vbHMnXe+8jOWunua1iyBhcHBseSDog73ov5vkvYbot6/nlLEgNDA0IOKAlOKAlCDlhYjlr7npvZDlt7Lpqozor4HmoLfmnKzjgIIKLy8gICB0b29scyDmlLnmiJDov5DooYzml7bmjqLmtYvvvIzmi7/kuI3liLDlsLHkuI3ms6jlhozlt6XlhbfvvIjot6/nlLHkuI3lj5flvbHlk43vvInjgIIKZXhwb3J0IGNvbnN0IGluamVjdCA9IFsnd2ViU2VydmVyJ107CgpleHBvcnQgZnVuY3Rpb24gYXBwbHkoY3R4KSB7CiAgY29uc3QgbG9nID0gKGN0eCAmJiBjdHgubG9nZ2VyKSB8fCBjb25zb2xlOwogIGNvbnN0IHN0YXJ0ZWRBdCA9IERhdGUubm93KCk7CiAgY29uc3Qgd2ViU2VydmVyID0gY3R4LndlYlNlcnZlcjsKCiAgLy8g4pSA4pSAIHdlYiDot6/nlLHvvJovX2RzaC9jaHVkYWktcGF0cm9sL3tzdGF0dXMscnVufSDilIDilIAKICAvLyAgIOeFpyB3b3JrYmVuY2gg5bey6aqM6K+B5qih5p2/77yaa2luZDoncHJlZml4JyArIOiHquW3seaMiSByZXEudXJsIOWIhuWPkQogIGNvbnN0IGRpc3Bvc2UgPSB3ZWJTZXJ2ZXIucmVnaXN0ZXIoewogICAga2luZDogJ3ByZWZpeCcsCiAgICBwYXRoOiAnL19kc2gvY2h1ZGFpLXBhdHJvbCcsCiAgICBoYW5kbGVyOiBhc3luYyAocmVxLCByZXMpID0+IHsKICAgICAgY29uc3Qgc2VuZCA9IChjb2RlLCBib2R5KSA9PiB7CiAgICAgICAgcmVzLnN0YXR1c0NvZGUgPSBjb2RlOwogICAgICAgIHJlcy5zZXRIZWFkZXIoJ2NvbnRlbnQtdHlwZScsICdhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04Jyk7CiAgICAgICAgcmVzLnNldEhlYWRlcignY2FjaGUtY29udHJvbCcsICduby1zdG9yZScpOwogICAgICAgIHJlcy5lbmQoSlNPTi5zdHJpbmdpZnkoYm9keSkpOwogICAgICB9OwogICAgICB0cnkgewogICAgICAgIGNvbnN0IHVybCA9IFN0cmluZygocmVxICYmIHJlcS51cmwpIHx8ICcnKTsKICAgICAgICBpZiAoL1wvcnVuJC91LnRlc3QodXJsKSkgewogICAgICAgICAgaWYgKChyZXEubWV0aG9kIHx8ICdHRVQnKSAhPT0gJ1BPU1QnKSB7IHJlcy5zZXRIZWFkZXIoJ2FsbG93JywgJ1BPU1QnKTsgcmV0dXJuIHNlbmQoNDA1LCB7IG9rOiBmYWxzZSwgZXJyb3I6ICdtZXRob2Qgbm90IGFsbG93ZWQnIH0pOyB9CiAgICAgICAgICBjb25zdCBib2R5ID0gKHJlcSAmJiByZXEuYm9keSkgfHwge307CiAgICAgICAgICByZXR1cm4gc2VuZCgyMDAsIHsgb2s6IHRydWUsIHZhbHVlOiBydW5QYXRyb2woeyBza2lwOiBib2R5LnNraXAgfHwgW10gfSkgfSk7CiAgICAgICAgfQogICAgICAgIGlmICgvXC9zdGF0dXMkL3UudGVzdCh1cmwpKSB7CiAgICAgICAgICByZXR1cm4gc2VuZCgyMDAsIHsgb2s6IHRydWUsIHZhbHVlOiBydW5QYXRyb2woe30pIH0pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2VuZCgyMDAsIHsKICAgICAgICAgIG9rOiB0cnVlLAogICAgICAgICAgbmFtZTogJ2NodWRhaS1wYXRyb2wnLAogICAgICAgICAgdmVyc2lvbjogVkVSU0lPTiwKICAgICAgICAgIHVwdGltZU1zOiBEYXRlLm5vdygpIC0gc3RhcnRlZEF0LAogICAgICAgICAgZW5kcG9pbnRzOiBbJy9fZHNoL2NodWRhaS1wYXRyb2wvc3RhdHVzJywgJy9fZHNoL2NodWRhaS1wYXRyb2wvcnVuJ10sCiAgICAgICAgfSk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICByZXR1cm4gc2VuZCg1MDAsIHsgb2s6IGZhbHNlLCBlcnJvcjogU3RyaW5nKChlICYmIGUubWVzc2FnZSkgfHwgZSkuc2xpY2UoMCwgMzAwKSB9KTsKICAgICAgfQogICAgfSwKICB9KTsKCiAgY3R4LmVmZmVjdCgoKSA9PiAoKSA9PiB7IHRyeSB7IGRpc3Bvc2UoKTsgfSBjYXRjaCAoXykgeyAvKiDljbjovb3lpLHotKXkuI3pmLvloZ4gKi8gfSB9KTsKCiAgLy8g4pSA4pSAIOW3peWFtyDilIDilIAKICAvLyAgIOKYheayoeWjsOaYjiBpbmplY3QgdG9vbHMg4oeSIOiuv+mXruimgeeUqCB0cnkg5YyF5L2P77yI5pyN5Yqh5LiN5a2Y5Zyo5pe2IGNvcmRpcyDkvJrmipvvvIkKICBsZXQgdG9vbHMgPSBudWxsOwogIHRyeSB7IHRvb2xzID0gY3R4LnRvb2xzOyB9IGNhdGNoIChfKSB7IHRvb2xzID0gbnVsbDsgfQogIGlmICh0b29scyAmJiB0eXBlb2YgdG9vbHMucmVnaXN0ZXIgPT09ICdmdW5jdGlvbicpIHsKICAgIGN0eC5lZmZlY3QoKCkgPT4gdG9vbHMucmVnaXN0ZXIoUEFUUk9MX1JVTl9UT09MKSk7CiAgICBjdHguZWZmZWN0KCgpID0+IHRvb2xzLnJlZ2lzdGVyKFBBVFJPTF9PTkVfVE9PTCkpOwogICAgKGxvZy5pbmZvIHx8IGxvZy5sb2cpPy5jYWxsPy4obG9nLCAnW2NodWRhaS1wYXRyb2xdIHYnICsgVkVSU0lPTiArICcg5bey5Yqg6L2977yaMiDlt6XlhbcgKyAzIOi3r+eUsScgKyAoY29yZUVycm9yID8gJ++8iGNvcmUg5pyq5Yqg6L2977yaJyArIGNvcmVFcnJvciArICfvvIknIDogJycpKTsKICB9IGVsc2UgewogICAgKGxvZy53YXJuIHx8IGxvZy5sb2cpPy5jYWxsPy4obG9nLCAnW2NodWRhaS1wYXRyb2xdIGN0eC50b29scyDkuI3lj6/nlKgg4oeSIOW3peWFt+acquazqOWGjO+8jOi3r+eUseS7jeWcqCcpOwogIH0KfQo=
+// ═══════════════════════════════════════════════════════════════════════════
+// dsh-plugin-chudai-patrol · 巡检司宿主入口
+//
+// 【它是什么】
+//   DSH 内部的看门狗。6 项健康巡检 + 面板 + 工具。
+//
+// 【与 daemon-guardian 的分工（重要）】
+//   · core/memory-v2/daemon-guardian.mjs（独立进程）
+//       —— 管「进程活着吗」，死了就拉起，7x24 不依赖 DSH
+//   · 本插件（跟 DSH 生命周期走）
+//       —— 管「DSH 内部健康吗」，只看不拉起，DSH 停了就停
+//   ★不是替代关系，是互补：guardian 管进程，patrol 管功能
+//
+// 【诚实边界】
+//   · 只看不改（要修走 heal / 青天闸）
+//   · DSH 停了本插件也停 —— 所以它救不了 DSH 本身
+//   · 检查本身可能误报，每项都标注判据
+//
+// 【2026-11-01 衡修 · 为什么改】
+//   原版用的是 `ctx.tool({...})` 和 `ctx.router.post/get(...)`，这两个在 rc.5 都不存在
+//   （rc.5 的正确姿势：ctx.tools.register(...) / ctx.webServer.register({kind:'prefix'})，
+//    见 braincore 与 workbench 两个已上线插件）。原版还漏了 export const inject。
+//   ⇒ 照 rc.5 契约重写这两处；core/patrol.cjs 加载失败时降级成"如实报错"，不让整个插件挂。
+// ═══════════════════════════════════════════════════════════════════════════
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { createRequire } from 'node:module';
+
+const PLUGIN_ID = 'chudai-patrol';
+const VERSION = '0.1.0';
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const require = createRequire(import.meta.url);
+
+// ★core 缺失不能让插件挂：拿不到就直接报错字符串，路由和工具照常注册
+let patrolCore = null;
+let coreError = '';
+try {
+  patrolCore = require(path.join(__dirname, 'core', 'patrol.cjs'));
+} catch (e) {
+  coreError = String((e && e.message) || e).slice(0, 300);
+}
+
+function textBlocks(value) {
+  return [{ type: 'text', text: JSON.stringify(value == null ? {} : value, null, 2) }];
+}
+
+function runPatrol(opts) {
+  if (!patrolCore || typeof patrolCore.patrol !== 'function') {
+    return { ok: false, error: 'core/patrol.cjs 未加载: ' + coreError };
+  }
+  try {
+    return patrolCore.patrol(opts || {});
+  } catch (e) {
+    return { ok: false, error: String((e && e.message) || e).slice(0, 300) };
+  }
+}
+
+const PATROL_RUN_TOOL = {
+  name: 'patrol_run',
+  description: '巡检司 · 跑一次 DSH 内部健康巡检（6 项：插件加载/会话健康/记忆新鲜度/工具可用性/看门狗状态/daemon 状态）。★只看不改。',
+  parameters: {
+    type: 'object',
+    properties: {
+      skip: { type: 'array', items: { type: 'string' }, description: '跳过的检查 id（可选）' },
+    },
+  },
+  async execute(args) {
+    const r = runPatrol({ skip: (args && args.skip) || [] });
+    return { content: textBlocks(r), isError: r && r.ok === false ? true : undefined };
+  },
+};
+
+const PATROL_ONE_TOOL = {
+  name: 'patrol_one',
+  description: '巡检司 · 只跑某一项检查。id: plugins | sessions | memory | tools | guardian | daemon',
+  parameters: {
+    type: 'object',
+    properties: {
+      id: { type: 'string', description: '检查 id' },
+    },
+    required: ['id'],
+    },
+  async execute(args) {
+    const id = args && args.id;
+    if (!patrolCore || typeof patrolCore.patrol !== 'function') {
+      return { content: textBlocks({ error: 'core/patrol.cjs 未加载: ' + coreError }), isError: true };
+    }
+    const map = {
+      plugins: patrolCore.checkPlugins,
+      sessions: patrolCore.checkSessions,
+      memory: patrolCore.checkMemory,
+      tools: patrolCore.checkTools,
+      guardian: patrolCore.checkGuardian,
+      daemon: patrolCore.checkDaemon,
+    };
+    const fn = map[id];
+    if (typeof fn !== 'function') {
+      return { content: textBlocks({ error: '未知 id: ' + id, valid: Object.keys(map) }), isError: true };
+    }
+    try { return { content: textBlocks(fn()) }; }
+    catch (e) { return { content: textBlocks({ error: String((e && e.message) || e).slice(0, 300) }), isError: true }; }
+  },
+};
+
+export const name = PLUGIN_ID;
+// ★2026-11-01 衡修：inject 只留 webServer（与 workbench 完全同构）。
+//   原来写 ['webServer','tools']，实测 apply 能进但路由 404 —— 先对齐已验证样本。
+//   tools 改成运行时探测，拿不到就不注册工具（路由不受影响）。
+export const inject = ['webServer'];
+
+export function apply(ctx) {
+  const log = (ctx && ctx.logger) || console;
+  const startedAt = Date.now();
+  const webServer = ctx.webServer;
+
+  // ── web 路由：/_dsh/chudai-patrol/{status,run} ──
+  //   照 workbench 已验证模板：kind:'prefix' + 自己按 req.url 分发
+  const dispose = webServer.register({
+    kind: 'prefix',
+    path: '/_dsh/chudai-patrol',
+    handler: async (req, res) => {
+      const send = (code, body) => {
+        res.statusCode = code;
+        res.setHeader('content-type', 'application/json; charset=utf-8');
+        res.setHeader('cache-control', 'no-store');
+        res.end(JSON.stringify(body));
+      };
+      try {
+        const url = String((req && req.url) || '');
+        if (/\/run$/u.test(url)) {
+          if ((req.method || 'GET') !== 'POST') { res.setHeader('allow', 'POST'); return send(405, { ok: false, error: 'method not allowed' }); }
+          const body = (req && req.body) || {};
+          return send(200, { ok: true, value: runPatrol({ skip: body.skip || [] }) });
+        }
+        if (/\/status$/u.test(url)) {
+          return send(200, { ok: true, value: runPatrol({}) });
+        }
+        return send(200, {
+          ok: true,
+          name: 'chudai-patrol',
+          version: VERSION,
+          uptimeMs: Date.now() - startedAt,
+          endpoints: ['/_dsh/chudai-patrol/status', '/_dsh/chudai-patrol/run'],
+        });
+      } catch (e) {
+        return send(500, { ok: false, error: String((e && e.message) || e).slice(0, 300) });
+      }
+    },
+  });
+
+  ctx.effect(() => () => { try { dispose(); } catch (_) { /* 卸载失败不阻塞 */ } });
+
+  // ── 工具 ──
+  //   ★没声明 inject tools ⇒ 访问要用 try 包住（服务不存在时 cordis 会抛）
+  let tools = null;
+  try { tools = ctx.tools; } catch (_) { tools = null; }
+  if (tools && typeof tools.register === 'function') {
+    ctx.effect(() => tools.register(PATROL_RUN_TOOL));
+    ctx.effect(() => tools.register(PATROL_ONE_TOOL));
+    (log.info || log.log)?.call?.(log, '[chudai-patrol] v' + VERSION + ' 已加载：2 工具 + 3 路由' + (coreError ? '（core 未加载：' + coreError + '）' : ''));
+  } else {
+    (log.warn || log.log)?.call?.(log, '[chudai-patrol] ctx.tools 不可用 ⇒ 工具未注册，路由仍在');
+  }
+}

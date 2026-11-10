@@ -1,1 +1,32 @@
-ewogICJuYW1lIjogImRzaC1wbHVnaW4tY2h1ZGFpLXBhdHJvbCIsCiAgInZlcnNpb24iOiAiMC4xLjAiLAogICJwcml2YXRlIjogdHJ1ZSwKICAidHlwZSI6ICJtb2R1bGUiLAogICJkZXNjcmlwdGlvbiI6ICLlt6Hmo4Dlj7ggwrcgRFNIIOWGhemDqOeci+mXqOeLl++8mjYg6aG55YGl5bq35beh5qOA77yI5o+S5Lu25Yqg6L29L+S8muivnS/orrDlv4Yv5bel5YW3L+eci+mXqOeLly9kYWVtb27vvIkrIOmdouadvyArIOW3peWFt+OAguKYheS4jiBjb3JlL21lbW9yeS12Mi9kYWVtb24tZ3VhcmRpYW4g5YiG5bel77yaZ3VhcmRpYW4g566h44CM6L+b56iL5rS7552A44CN77yM5pys5o+S5Lu2566h44CMRFNIIOWGhemDqOWBpeW6t+OAjeOAgiIsCiAgIm1haW4iOiAiaW5kZXgubWpzIiwKICAiZXhwb3J0cyI6IHsKICAgICIuIjogIi4vaW5kZXgubWpzIiwKICAgICIuL2NsaWVudCI6ICIuL2NsaWVudC5qcyIsCiAgICAiLi9jb3JkaXMucGF0Y2gueW1sIjogIi4vY29yZGlzLnBhdGNoLnltbCIsCiAgICAiLi9wYWNrYWdlLmpzb24iOiAiLi9wYWNrYWdlLmpzb24iCiAgfSwKICAiZmlsZXMiOiBbCiAgICAiaW5kZXgubWpzIiwKICAgICJjbGllbnQuanMiLAogICAgImNvcmRpcy5wYXRjaC55bWwiLAogICAgInBhY2thZ2UuanNvbiIKICBdLAogICJkc2giOiB7CiAgICAiaG9zdCI6ICJpbmRleC5tanMiLAogICAgImJ1bmRsZSI6IHsKICAgICAgInBhdGNoIjogIi4vY29yZGlzLnBhdGNoLnltbCIKICAgIH0sCiAgICAiY2xpZW50IjogewogICAgICAicGxhdGZvcm0iOiAid2ViIiwKICAgICAgImltbWVkaWF0ZWx5IjogdHJ1ZSwKICAgICAgImluamVjdCI6IFtdCiAgICB9CiAgfSwKICAibGljZW5zZSI6ICJNSVQiCn0K
+{
+  "name": "dsh-plugin-chudai-patrol",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "巡检司 · DSH 内部看门狗：6 项健康巡检（插件加载/会话/记忆/工具/看门狗/daemon）+ 面板 + 工具。★与 core/memory-v2/daemon-guardian 分工：guardian 管「进程活着」，本插件管「DSH 内部健康」。",
+  "main": "index.mjs",
+  "exports": {
+    ".": "./index.mjs",
+    "./client": "./client.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.mjs",
+    "client.js",
+    "cordis.patch.yml",
+    "package.json"
+  ],
+  "dsh": {
+    "host": "index.mjs",
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": []
+    }
+  },
+  "license": "MIT"
+}

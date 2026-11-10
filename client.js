@@ -1,1 +1,186 @@
-Ly8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACi8vIGRzaC1wbHVnaW4tY2h1ZGFpLXBhdHJvbCDCtyDlrqLmiLfnq6/vvIjorr7nva7pobXjgIzlt6Hmo4Dlj7jjgI1zZWN0aW9u77yJCi8vCi8vIOW4g+WxgO+8muWPquaMgiBzZXR0aW5ncy5zZWN0aW9u77yM5LiN5YGa5Y+z5qCPIHRhYu+8iOiAgeadv+OAjOS4jeimgeWNoOmihuiBiuWkqeeVjOmdouOAje+8ie+8mwovLyDmlbDmja7pgJrpgZPvvJpob3N0IOaatOmcsiAvX2RzaC9jaHVkYWktcGF0cm9sL3N0YXR1c++8iEdFVO+8ie+8jGNsaWVudCBzYW1lLW9yaWdpbiBmZXRjaOOAggovLyAgIOKYhTIwMjYtMTEtMDEg5L+u77ya5Y6f5p2l5YaZIC9hcGkvY2h1ZGFpLXBhdHJvbCDih5Ig6Z2i5p2/IGZldGNoIOaLv+S4jeWIsO+8iC9hcGkg6ZyA6K6k6K+B77yML19kc2gg5YWN6K6k6K+B77yJCi8vCi8vIOa4suafk+WxgumTgeW+i++8muWuv+S4uyBSZWFjdCAxOO+8jOe7hOS7tiByZXR1cm4gaCguLi4pIOWFg+e0oOagke+8jOe7neS4jSByZXR1cm4g6KO4IERPTe+8mwovLyAgIOaXoCByZWFjdCDml7botbAgRE9NIOmZjee6p+OAguWFqCB0cnktY2F0Y2gg5LiN5Y2h5a6/5Li744CCCi8vIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAooZnVuY3Rpb24gKCkgewogIGlmICh0eXBlb2Ygd2luZG93ID09PSAndW5kZWZpbmVkJykgcmV0dXJuOwogIGlmICh3aW5kb3cuX19jaHVkYWlQYXRyb2xDbGllbnRMb2FkZWQpIHJldHVybjsKICB2YXIgbG9hZGVyID0gd2luZG93Ll9fTW9kdWxlTG9hZGVyX187CiAgaWYgKCFsb2FkZXIgfHwgdHlwZW9mIGxvYWRlci5sb2FkICE9PSAnZnVuY3Rpb24nKSByZXR1cm47CgogIHRyeSB7CiAgICBsb2FkZXIubG9hZCh7CiAgICAgIGlkOiAnZHNoLXBsdWdpbi1jaHVkYWktcGF0cm9sJywKICAgICAgZmFjdG9yeTogZnVuY3Rpb24gKHJlcXVpcmUpIHsKICAgICAgICB0cnkgewogICAgICAgICAgdmFyIGggPSBudWxsLCB1c2VTdGF0ZSA9IG51bGwsIHVzZUVmZmVjdCA9IG51bGw7CiAgICAgICAgICB0cnkgewogICAgICAgICAgICB2YXIgUmVhY3QgPSByZXF1aXJlKCdyZWFjdCcpOwogICAgICAgICAgICBoID0gUmVhY3QuY3JlYXRlRWxlbWVudDsKICAgICAgICAgICAgdXNlU3RhdGUgPSBSZWFjdC51c2VTdGF0ZTsKICAgICAgICAgICAgdXNlRWZmZWN0ID0gUmVhY3QudXNlRWZmZWN0OwogICAgICAgICAgfSBjYXRjaCAoXykgeyAvKiDml6AgcmVhY3Qg4oaSIERPTSDpmY3nuqcgKi8gfQoKICAgICAgICAgIHZhciBBUEkgPSAnL19kc2gvY2h1ZGFpLXBhdHJvbCc7CgogICAgICAgICAgZnVuY3Rpb24gZ2V0SlNPTihwKSB7CiAgICAgICAgICAgIHJldHVybiBmZXRjaChBUEkgKyBwLCB7IGNyZWRlbnRpYWxzOiAnc2FtZS1vcmlnaW4nIH0pLnRoZW4oZnVuY3Rpb24gKHIpIHsgcmV0dXJuIHIuanNvbigpOyB9KTsKICAgICAgICAgIH0KCiAgICAgICAgICB2YXIgSUNPTiA9IHsgb2s6ICfinIUnLCB3YXJuOiAn4pqg77iPJywgZmFpbDogJ+KdjCcsIHVua25vd246ICfinZQnIH07CiAgICAgICAgICB2YXIgQ09MT1IgPSB7IG9rOiAnIzIyYzU1ZScsIHdhcm46ICcjZjU5ZTBiJywgZmFpbDogJyNlZjQ0NDQnLCB1bmtub3duOiAnIzZiNzI4MCcgfTsKCiAgICAgICAgICBmdW5jdGlvbiBQYXRyb2xQYW5lbCgpIHsKICAgICAgICAgICAgdmFyIHMxID0gdXNlU3RhdGUobnVsbCk7IHZhciBkYXRhID0gczFbMF0sIHNldERhdGEgPSBzMVsxXTsKICAgICAgICAgICAgdmFyIHMyID0gdXNlU3RhdGUoZmFsc2UpOyB2YXIgbG9hZGluZyA9IHMyWzBdLCBzZXRMb2FkaW5nID0gczJbMV07CiAgICAgICAgICAgIHZhciBzMyA9IHVzZVN0YXRlKG51bGwpOyB2YXIgZXJyID0gczNbMF0sIHNldEVyciA9IHMzWzFdOwoKICAgICAgICAgICAgZnVuY3Rpb24gcmVmcmVzaCgpIHsKICAgICAgICAgICAgICBzZXRMb2FkaW5nKHRydWUpOyBzZXRFcnIobnVsbCk7CiAgICAgICAgICAgICAgZ2V0SlNPTignL3N0YXR1cycpCiAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbiAoaikgeyBzZXREYXRhKChqICYmIGoudmFsdWUpID8gai52YWx1ZSA6IGopOyB9KQogICAgICAgICAgICAgICAgLmNhdGNoKGZ1bmN0aW9uIChlKSB7IHNldEVycihTdHJpbmcoKGUgJiYgZS5tZXNzYWdlKSB8fCBlKS5zbGljZSgwLCAxNjApKTsgfSkKICAgICAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uICgpIHsgc2V0TG9hZGluZyhmYWxzZSk7IH0pOwogICAgICAgICAgICB9CgogICAgICAgICAgICB1c2VFZmZlY3QoZnVuY3Rpb24gKCkgeyByZWZyZXNoKCk7IH0sIFtdKTsKCiAgICAgICAgICAgIGlmICghaCkgewogICAgICAgICAgICAgIHZhciBlbCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgICAgICAgICAgIGVsLnN0eWxlLmNzc1RleHQgPSAnZm9udDoxMnB4IHN5c3RlbS11aSxzYW5zLXNlcmlmO3BhZGRpbmc6MTJweCAwO2NvbG9yOnZhcigtLWRzdy1hbGlhcy1sYWJlbC10ZXJ0aWFyeSwjODg4KSc7CiAgICAgICAgICAgICAgZWwudGV4dENvbnRlbnQgPSAn5beh5qOA5Y+46Z2i5p2/6ZyA6KaBIFJlYWN0IOeOr+Wigyc7CiAgICAgICAgICAgICAgcmV0dXJuIGVsOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgY2hpbGRyZW4gPSBbXTsKICAgICAgICAgICAgY2hpbGRyZW4ucHVzaChoKCdkaXYnLCB7IGtleTogJ2hkcicsIHN0eWxlOiB7IGRpc3BsYXk6ICdmbGV4JywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGdhcDogJzEwcHgnLCBtYXJnaW5Cb3R0b206ICcxMnB4JyB9IH0sIFsKICAgICAgICAgICAgICBoKCdzcGFuJywgeyBrZXk6ICd0Jywgc3R5bGU6IHsgZm9udFNpemU6ICcxM3B4JywgZm9udFdlaWdodDogNjAwIH0gfSwgJ+W3oeajgOWPuCcpLAogICAgICAgICAgICAgIGgoJ3NwYW4nLCB7IGtleTogJ3MnLCBzdHlsZTogeyBmb250U2l6ZTogJzExcHgnLCBvcGFjaXR5OiAwLjYgfSB9LCAnRFNIIOWGhemDqOeci+mXqOeLlyDCtyA2IOmhueWBpeW6t+W3oeajgCcpLAogICAgICAgICAgICAgIGgoJ2J1dHRvbicsIHsKICAgICAgICAgICAgICAgIGtleTogJ2J0bicsIG9uQ2xpY2s6IHJlZnJlc2gsIGRpc2FibGVkOiBsb2FkaW5nLAogICAgICAgICAgICAgICAgc3R5bGU6IHsgbWFyZ2luTGVmdDogJ2F1dG8nLCBwYWRkaW5nOiAnNHB4IDEycHgnLCBmb250U2l6ZTogJzEycHgnLCBjdXJzb3I6ICdwb2ludGVyJywgYm9yZGVyUmFkaXVzOiAnNnB4JywgYm9yZGVyOiAnMXB4IHNvbGlkIHZhcigtLWRzdy1hbGlhcy1ib3JkZXItc2Vjb25kYXJ5LCM0NDQpJywgYmFja2dyb3VuZDogJ3RyYW5zcGFyZW50JywgY29sb3I6ICdpbmhlcml0JyB9LAogICAgICAgICAgICAgIH0sIGxvYWRpbmcgPyAn5qOA5p+l5Lit4oCmJyA6ICfliLfmlrAnKSwKICAgICAgICAgICAgXSkpOwoKICAgICAgICAgICAgLy8g4piF4piFMjAyNi0xMS0wMSDliqDvvJror4rmlq3kv6Hmga/vvIjorqnogIHmnb/og73nnIvliLDliLDlupXljaHlnKjlk6rvvInimIXimIUKICAgICAgICAgICAgY2hpbGRyZW4ucHVzaChoKCdkaXYnLCB7IGtleTogJ2RpYWcnLCBzdHlsZTogeyBmb250U2l6ZTogJzEwcHgnLCBjb2xvcjogJyM4ODgnLCBwYWRkaW5nOiAnMnB4IDAnIH0gfSwKICAgICAgICAgICAgICAn6K+K5patOiBBUEk9JyArIEFQSSArICcgfCBsb2FkaW5nPScgKyBsb2FkaW5nICsgJyB8IGRhdGE9JyArIChkYXRhID8gJ+aciScgOiAn5pegJykgKyAnIHwgZXJyPScgKyAoZXJyIHx8ICfml6AnKSkpOwoKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgIGNoaWxkcmVuLnB1c2goaCgnZGl2JywgeyBrZXk6ICdlcnInLCBzdHlsZTogeyBjb2xvcjogJyNlZjQ0NDQnLCBmb250U2l6ZTogJzEycHgnLCBwYWRkaW5nOiAnOHB4IDAnIH0gfSwgJ+i/nuS4jeS4iuW3oeajgOaOpeWPo++8micgKyBlcnIpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGRhdGEpIHsKICAgICAgICAgICAgICB2YXIgc20gPSBkYXRhLnN1bW1hcnkgfHwge307CiAgICAgICAgICAgICAgdmFyIHZjID0gQ09MT1JbU3RyaW5nKGRhdGEudmVyZGljdCB8fCAnJykudG9Mb3dlckNhc2UoKV0gfHwgJyM2YjcyODAnOwogICAgICAgICAgICAgIGNoaWxkcmVuLnB1c2goaCgnZGl2JywgeyBrZXk6ICdzdW0nLCBzdHlsZTogeyBkaXNwbGF5OiAnZmxleCcsIGdhcDogJzE0cHgnLCBmb250U2l6ZTogJzEycHgnLCBtYXJnaW5Cb3R0b206ICcxMHB4JywgcGFkZGluZ0JvdHRvbTogJzEwcHgnLCBib3JkZXJCb3R0b206ICcxcHggc29saWQgdmFyKC0tZHN3LWFsaWFzLWJvcmRlci1zZWNvbmRhcnksIzJhMmEyYSknIH0gfSwgWwogICAgICAgICAgICAgICAgaCgnc3BhbicsIHsga2V5OiAndicsIHN0eWxlOiB7IGNvbG9yOiB2YywgZm9udFdlaWdodDogNjAwIH0gfSwgZGF0YS52ZXJkaWN0IHx8ICc/JyksCiAgICAgICAgICAgICAgICBoKCdzcGFuJywgeyBrZXk6ICdvJyB9LCAn4pyFICcgKyAoc20ub2sgfHwgMCkpLAogICAgICAgICAgICAgICAgaCgnc3BhbicsIHsga2V5OiAndycgfSwgJ+KaoO+4jyAnICsgKHNtLndhcm4gfHwgMCkpLAogICAgICAgICAgICAgICAgaCgnc3BhbicsIHsga2V5OiAnZicgfSwgJ+KdjCAnICsgKHNtLmZhaWwgfHwgMCkpLAogICAgICAgICAgICAgICAgaCgnc3BhbicsIHsga2V5OiAndScgfSwgJ+KdlCAnICsgKHNtLnVua25vd24gfHwgMCkpLAogICAgICAgICAgICAgIF0pKTsKCiAgICAgICAgICAgICAgLy8g4piFMjAyNi0xMS0wMSDliqDvvJrljovnvKnmkZjopoHvvIjlraboh6rjgIzlkYrorabpmY3lmarjgI3vvIkKICAgICAgICAgICAgICBpZiAoZGF0YS5kaWdlc3QpIHsKICAgICAgICAgICAgICAgIGNoaWxkcmVuLnB1c2goaCgnZGl2JywgeyBrZXk6ICdkaWdlc3QnLCBzdHlsZTogewogICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzEycHgnLCBwYWRkaW5nOiAnNnB4IDAgOHB4JywKICAgICAgICAgICAgICAgICAgY29sb3I6IGRhdGEudmVyZGljdCA9PT0gJ1BBU1MnID8gJ3ZhcigtLWRzdy1hbGlhcy1zdWNjZXNzLCMzZmI5NTApJyA6ICd2YXIoLS1kc3ctYWxpYXMtZGFuZ2VyLCNlMDU1NTUpJywKICAgICAgICAgICAgICAgIH0gfSwgZGF0YS5kaWdlc3QpKTsKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIHZhciByb3dzID0gKGRhdGEuY2hlY2tzIHx8IFtdKS5tYXAoZnVuY3Rpb24gKGMpIHsKICAgICAgICAgICAgICAgIHJldHVybiBoKCdkaXYnLCB7IGtleTogYy5pZCwgc3R5bGU6IHsgZGlzcGxheTogJ2ZsZXgnLCBnYXA6ICc4cHgnLCBwYWRkaW5nOiAnNnB4IDAnLCBmb250U2l6ZTogJzEycHgnLCBhbGlnbkl0ZW1zOiAnZmxleC1zdGFydCcgfSB9LCBbCiAgICAgICAgICAgICAgICAgIGgoJ3NwYW4nLCB7IGtleTogJ2knLCBzdHlsZTogeyB3aWR0aDogJzE2cHgnLCBmbGV4U2hyaW5rOiAwIH0gfSwgSUNPTltjLmxldmVsXSB8fCAnPycpLAogICAgICAgICAgICAgICAgICAvLyDimIUyMDI2LTExLTAxIOWKoO+8mnNldmVyaXR5IOagh+etvu+8iFAxL1AyL1Az77yJCiAgICAgICAgICAgICAgICAgIGgoJ3NwYW4nLCB7IGtleTogJ3NldicsIHN0eWxlOiB7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6ICcyOHB4JywgZmxleFNocmluazogMCwgZm9udFNpemU6ICcxMHB4JywKICAgICAgICAgICAgICAgICAgICBjb2xvcjogYy5zZXZlcml0eSA9PT0gJ1AxJyA/ICd2YXIoLS1kc3ctYWxpYXMtZGFuZ2VyLCNlMDU1NTUpJwogICAgICAgICAgICAgICAgICAgICAgICAgOiBjLnNldmVyaXR5ID09PSAnUDInID8gJ3ZhcigtLWRzdy1hbGlhcy13YXJuaW5nLCNkMjk5MjIpJwogICAgICAgICAgICAgICAgICAgICAgICAgOiAndmFyKC0tZHN3LWFsaWFzLWxhYmVsLXRlcnRpYXJ5LCM2Zjc4ODUpJywKICAgICAgICAgICAgICAgICAgfSB9LCBjLnNldmVyaXR5IHx8ICcnKSwKICAgICAgICAgICAgICAgICAgaCgnc3BhbicsIHsga2V5OiAnbicsIHN0eWxlOiB7IHdpZHRoOiAnODhweCcsIGZsZXhTaHJpbms6IDAsIG9wYWNpdHk6IDAuNzUgfSB9LCBjLm5hbWUpLAogICAgICAgICAgICAgICAgICBoKCdzcGFuJywgeyBrZXk6ICdkJywgc3R5bGU6IHsgZmxleDogMSwgb3BhY2l0eTogMC42IH0gfSwgYy5kZXRhaWwpLAogICAgICAgICAgICAgICAgXS5jb25jYXQoYy5ydW5ib29rID8gWwogICAgICAgICAgICAgICAgICAvLyDimIUyMDI2LTExLTAxIOWKoO+8muWksei0peaXtuaYvuekuuOAjOaAjuS5iOS/ruOAje+8iOWtpuiHqiBSdW5ib29rIOmihOe9rueOh++8iQogICAgICAgICAgICAgICAgICBoKCdkaXYnLCB7IGtleTogJ3JiJywgc3R5bGU6IHsgZm9udFNpemU6ICcxMHB4JywgY29sb3I6ICd2YXIoLS1kc3ctYWxpYXMtbGFiZWwtdGVydGlhcnksIzZmNzg4NSknLCBwYWRkaW5nTGVmdDogJzUycHgnLCBtYXJnaW5Ub3A6ICcycHgnIH0gfSwKICAgICAgICAgICAgICAgICAgICAn4oaSICcgKyBjLnJ1bmJvb2spLAogICAgICAgICAgICAgICAgXSA6IFtdKSk7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgY2hpbGRyZW4ucHVzaChoKCdkaXYnLCB7IGtleTogJ3Jvd3MnIH0sIHJvd3MpKTsKCiAgICAgICAgICAgICAgaWYgKGRhdGEubm90ZSkgewogICAgICAgICAgICAgICAgY2hpbGRyZW4ucHVzaChoKCdkaXYnLCB7IGtleTogJ25vdGUnLCBzdHlsZTogeyBtYXJnaW5Ub3A6ICc4cHgnLCBmb250U2l6ZTogJzExcHgnLCBjb2xvcjogJyNmNTllMGInIH0gfSwgZGF0YS5ub3RlKSk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGNoaWxkcmVuLnB1c2goaCgnZGl2JywgeyBrZXk6ICd0cycsIHN0eWxlOiB7IG1hcmdpblRvcDogJzEwcHgnLCBmb250U2l6ZTogJzEwcHgnLCBvcGFjaXR5OiAwLjQgfSB9LCAn5qOA5p+l5LqOICcgKyAoZGF0YS50cyB8fCAnJykpKTsKICAgICAgICAgICAgfSBlbHNlIGlmICghbG9hZGluZykgewogICAgICAgICAgICAgIGNoaWxkcmVuLnB1c2goaCgnZGl2JywgeyBrZXk6ICdlbXB0eScsIHN0eWxlOiB7IGZvbnRTaXplOiAnMTJweCcsIG9wYWNpdHk6IDAuNSB9IH0sICfngrnjgIzliLfmlrDjgI3ot5HkuIDmrKHlt6Hmo4AnKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBoKCdkaXYnLCB7IHN0eWxlOiB7IHBhZGRpbmc6ICc0cHggMCcgfSB9LCBjaGlsZHJlbik7CiAgICAgICAgICB9CgogICAgICAgICAgLy8g4piFMjAyNi0xMS0wMSDooaHkv67vvJrov5nph4zljp/mnaXmnInkuKTlpITkvJrorqnlo7PltKkKICAgICAgICAgIC8vICAg4pGgIHJlcXVpcmUoJ0BkZWVwc2Vlay1haS9kc2gtY2xpZW50Jykuc2V0dGluZ3Muc2VjdGlvbiDigJTigJQg6L+Z5Liq5qih5Z2X5ZyoIHJjLjUg5LiN5a2Y5ZyoCiAgICAgICAgICAvLyAgIOKRoSBmYWN0b3J5IOi/lOWbniB7IFBhdHJvbFBhbmVsOiAuLi4gfSDov5nnp43oo7jlr7nosaEg4oCU4oCUIOayoeaciSBhcHBseQogICAgICAgICAgLy8gICDih5IgY29yZGlzIOaKpSBpbnZhbGlkIHBsdWdpbiwgZXhwZWN0IGZ1bmN0aW9uIG9yIG9iamVjdCB3aXRoIGFuICJhcHBseSIgbWV0aG9kLAogICAgICAgICAgLy8gICAgICByZWNlaXZlZCBvYmplY3Qg4oeSIHdlYiBib290IOaMgiDih5Ig55WM6Z2i5Y2h5ZyoIExvYWRpbmcgcGx1Z2luc+KApu+8iDExOjQ0IOmCo+asoeW0qea6g++8iQogICAgICAgICAgLy8gICDih5Ig5pS55oiQIHJjLjUg55qEIHNsb3RzIOWlkee6pu+8iOeFpyBza3lleWUg5bey6aqM6K+B5YaZ5rOV77yJCiAgICAgICAgICB3aW5kb3cuX19jaHVkYWlQYXRyb2xDbGllbnRMb2FkZWQgPSB0cnVlOwogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgbmFtZTogJ2NodWRhaS1wYXRyb2wtY2xpZW50JywKICAgICAgICAgICAgaW5qZWN0OiBbJ3Nsb3RzJ10sCiAgICAgICAgICAgIGFwcGx5OiBmdW5jdGlvbiAoY3R4KSB7CiAgICAgICAgICAgICAgd2luZG93Ll9fY2h1ZGFpUGF0cm9sQXBwbHkgPSAod2luZG93Ll9fY2h1ZGFpUGF0cm9sQXBwbHkgfHwgMCkgKyAxOwogICAgICAgICAgICAgIC8vIOKYheKYhTIwMjYtMTEtMDEg5L+u77yI54WnIHNreWV5ZSDlt7Lpqozor4Hlhpnms5XvvInimIXimIUKICAgICAgICAgICAgICAvLyAgIOeXhe+8muebtOaOpeeUqCBjdHguc2xvdHPvvIxhcHBseSDmiafooYzml7Ygc2xvdHMg5Y+v6IO96L+Y5rKh5rOo5YWlCiAgICAgICAgICAgICAgLy8gICDimIXkv67ms5XvvJpjdHguaW5qZWN0KFsnc2xvdHMnXSwgY2IpIOW8guatpeetieazqOWFpSArIOWFnOW6lSBjdHguc2xvdHMKICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgY3R4LmluamVjdChbJ3Nsb3RzJ10sIGZ1bmN0aW9uIChuYXRpdmUpIHsKICAgICAgICAgICAgICAgICAgdmFyIHNsb3RzID0gbmF0aXZlICYmIG5hdGl2ZS5zbG90czsKICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpZiAoc2xvdHMgJiYgdHlwZW9mIHNsb3RzLmluamVjdCA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgICAgICAgICAgICAgICAgc2xvdHMuaW5qZWN0KCdzZXR0aW5ncy5zZWN0aW9uJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICBzbG90cy5yZWdpc3Rlcih7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ3NldHRpbmdzLnNlY3Rpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgIGlkOiAnY2h1ZGFpLXBhdHJvbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXI6IDkzLAogICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsOiBmdW5jdGlvbiAoKSB7IHJldHVybiAn5beh5qOA5Y+4JzsgfSwKICAgICAgICAgICAgICAgICAgICAgICAgfSwgUGF0cm9sUGFuZWwpOwogICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9IGNhdGNoIChfKSB7IC8qIOmZjee6p+S4jeWNoeWuv+S4uyAqLyB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICB9IGNhdGNoIChfKSB7CiAgICAgICAgICAgICAgICAvLyDimIXlhZzlupXvvJrnm7TmjqXmi78gY3R4LnNsb3RzCiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICB2YXIgc2xvdHNGID0gY3R4ICYmIGN0eC5zbG90czsKICAgICAgICAgICAgICAgICAgaWYgKHNsb3RzRiAmJiB0eXBlb2Ygc2xvdHNGLmluamVjdCA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgICAgICAgICAgICAgIHNsb3RzRi5pbmplY3QoJ3NldHRpbmdzLnNlY3Rpb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICBzbG90c0YucmVnaXN0ZXIoewogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAnc2V0dGluZ3Muc2VjdGlvbicsIGlkOiAnY2h1ZGFpLXBhdHJvbCcsIG9yZGVyOiA5MywKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw6IGZ1bmN0aW9uICgpIHsgcmV0dXJuICflt6Hmo4Dlj7gnOyB9LAogICAgICAgICAgICAgICAgICAgICAgfSwgUGF0cm9sUGFuZWwpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGNhdGNoIChfKSB7IC8qIOmZjee6pyAqLyB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgfTsKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICB0cnkgeyBjb25zb2xlLmVycm9yKCdbY2h1ZGFpLXBhdHJvbF0gY2xpZW50IOWKoOi9veWksei0pTonLCBlKTsgfSBjYXRjaCAoXykge30KICAgICAgICAgIC8vIOKYhWNhdGNoIOmHjOS5n+W/hemhu+i/lOWbnuWQiOazleaPkuS7tuWvueixoe+8iOWOn+adpSByZXR1cm4ge30g5LiA5qC35Lya5bSp5aOz77yJCiAgICAgICAgICByZXR1cm4geyBuYW1lOiAnY2h1ZGFpLXBhdHJvbC1jbGllbnQnLCBpbmplY3Q6IFtdLCBhcHBseTogZnVuY3Rpb24gKCkge30gfTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKICB9IGNhdGNoIChlKSB7CiAgICB0cnkgeyBjb25zb2xlLmVycm9yKCdbY2h1ZGFpLXBhdHJvbF0gbG9hZGVyLmxvYWQg5aSx6LSlOicsIGUpOyB9IGNhdGNoIChfKSB7fQogIH0KfSkoKTsK
+// ─────────────────────────────────────────────────────────────────────────────
+// dsh-plugin-chudai-patrol · 客户端（设置页「巡检司」section）
+//
+// 布局：只挂 settings.section，不做右栏 tab（老板「不要占领聊天界面」）；
+// 数据通道：host 暴露 /_dsh/chudai-patrol/status（GET），client same-origin fetch。
+//   ★2026-11-01 修：原来写 /api/chudai-patrol ⇒ 面板 fetch 拿不到（/api 需认证，/_dsh 免认证）
+//
+// 渲染层铁律：宿主 React 18，组件 return h(...) 元素树，绝不 return 裸 DOM；
+//   无 react 时走 DOM 降级。全 try-catch 不卡宿主。
+// ─────────────────────────────────────────────────────────────────────────────
+(function () {
+  if (typeof window === 'undefined') return;
+  if (window.__chudaiPatrolClientLoaded) return;
+  var loader = window.__ModuleLoader__;
+  if (!loader || typeof loader.load !== 'function') return;
+
+  try {
+    loader.load({
+      id: 'dsh-plugin-chudai-patrol',
+      factory: function (require) {
+        try {
+          var h = null, useState = null, useEffect = null;
+          try {
+            var React = require('react');
+            h = React.createElement;
+            useState = React.useState;
+            useEffect = React.useEffect;
+          } catch (_) { /* 无 react → DOM 降级 */ }
+
+          var API = '/_dsh/chudai-patrol';
+
+          function getJSON(p) {
+            return fetch(API + p, { credentials: 'same-origin' }).then(function (r) { return r.json(); });
+          }
+
+          var ICON = { ok: '✅', warn: '⚠️', fail: '❌', unknown: '❔' };
+          var COLOR = { ok: '#22c55e', warn: '#f59e0b', fail: '#ef4444', unknown: '#6b7280' };
+
+          function PatrolPanel() {
+            var s1 = useState(null); var data = s1[0], setData = s1[1];
+            var s2 = useState(false); var loading = s2[0], setLoading = s2[1];
+            var s3 = useState(null); var err = s3[0], setErr = s3[1];
+
+            function refresh() {
+              setLoading(true); setErr(null);
+              getJSON('/status')
+                .then(function (j) { setData((j && j.value) ? j.value : j); })
+                .catch(function (e) { setErr(String((e && e.message) || e).slice(0, 160)); })
+                .then(function () { setLoading(false); });
+            }
+
+            useEffect(function () { refresh(); }, []);
+
+            if (!h) {
+              var el = document.createElement('div');
+              el.style.cssText = 'font:12px system-ui,sans-serif;padding:12px 0;color:var(--dsw-alias-label-tertiary,#888)';
+              el.textContent = '巡检司面板需要 React 环境';
+              return el;
+            }
+
+            var children = [];
+            children.push(h('div', { key: 'hdr', style: { display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px' } }, [
+              h('span', { key: 't', style: { fontSize: '13px', fontWeight: 600 } }, '巡检司'),
+              h('span', { key: 's', style: { fontSize: '11px', opacity: 0.6 } }, 'DSH 内部看门狗 · 6 项健康巡检'),
+              h('button', {
+                key: 'btn', onClick: refresh, disabled: loading,
+                style: { marginLeft: 'auto', padding: '4px 12px', fontSize: '12px', cursor: 'pointer', borderRadius: '6px', border: '1px solid var(--dsw-alias-border-secondary,#444)', background: 'transparent', color: 'inherit' },
+              }, loading ? '检查中…' : '刷新'),
+            ]));
+
+            // ★★2026-11-01 加：诊断信息（让老板能看到到底卡在哪）★★
+            children.push(h('div', { key: 'diag', style: { fontSize: '10px', color: '#888', padding: '2px 0' } },
+              '诊断: API=' + API + ' | loading=' + loading + ' | data=' + (data ? '有' : '无') + ' | err=' + (err || '无')));
+
+            if (err) {
+              children.push(h('div', { key: 'err', style: { color: '#ef4444', fontSize: '12px', padding: '8px 0' } }, '连不上巡检接口：' + err));
+            }
+
+            if (data) {
+              var sm = data.summary || {};
+              var vc = COLOR[String(data.verdict || '').toLowerCase()] || '#6b7280';
+              children.push(h('div', { key: 'sum', style: { display: 'flex', gap: '14px', fontSize: '12px', marginBottom: '10px', paddingBottom: '10px', borderBottom: '1px solid var(--dsw-alias-border-secondary,#2a2a2a)' } }, [
+                h('span', { key: 'v', style: { color: vc, fontWeight: 600 } }, data.verdict || '?'),
+                h('span', { key: 'o' }, '✅ ' + (sm.ok || 0)),
+                h('span', { key: 'w' }, '⚠️ ' + (sm.warn || 0)),
+                h('span', { key: 'f' }, '❌ ' + (sm.fail || 0)),
+                h('span', { key: 'u' }, '❔ ' + (sm.unknown || 0)),
+              ]));
+
+              // ★2026-11-01 加：压缩摘要（学自「告警降噪」）
+              if (data.digest) {
+                children.push(h('div', { key: 'digest', style: {
+                  fontSize: '12px', padding: '6px 0 8px',
+                  color: data.verdict === 'PASS' ? 'var(--dsw-alias-success,#3fb950)' : 'var(--dsw-alias-danger,#e05555)',
+                } }, data.digest));
+              }
+
+              var rows = (data.checks || []).map(function (c) {
+                return h('div', { key: c.id, style: { display: 'flex', gap: '8px', padding: '6px 0', fontSize: '12px', alignItems: 'flex-start' } }, [
+                  h('span', { key: 'i', style: { width: '16px', flexShrink: 0 } }, ICON[c.level] || '?'),
+                  // ★2026-11-01 加：severity 标签（P1/P2/P3）
+                  h('span', { key: 'sev', style: {
+                    width: '28px', flexShrink: 0, fontSize: '10px',
+                    color: c.severity === 'P1' ? 'var(--dsw-alias-danger,#e05555)'
+                         : c.severity === 'P2' ? 'var(--dsw-alias-warning,#d29922)'
+                         : 'var(--dsw-alias-label-tertiary,#6f7885)',
+                  } }, c.severity || ''),
+                  h('span', { key: 'n', style: { width: '88px', flexShrink: 0, opacity: 0.75 } }, c.name),
+                  h('span', { key: 'd', style: { flex: 1, opacity: 0.6 } }, c.detail),
+                ].concat(c.runbook ? [
+                  // ★2026-11-01 加：失败时显示「怎么修」（学自 Runbook 预置率）
+                  h('div', { key: 'rb', style: { fontSize: '10px', color: 'var(--dsw-alias-label-tertiary,#6f7885)', paddingLeft: '52px', marginTop: '2px' } },
+                    '→ ' + c.runbook),
+                ] : []));
+              });
+              children.push(h('div', { key: 'rows' }, rows));
+
+              if (data.note) {
+                children.push(h('div', { key: 'note', style: { marginTop: '8px', fontSize: '11px', color: '#f59e0b' } }, data.note));
+              }
+              children.push(h('div', { key: 'ts', style: { marginTop: '10px', fontSize: '10px', opacity: 0.4 } }, '检查于 ' + (data.ts || '')));
+            } else if (!loading) {
+              children.push(h('div', { key: 'empty', style: { fontSize: '12px', opacity: 0.5 } }, '点「刷新」跑一次巡检'));
+            }
+
+            return h('div', { style: { padding: '4px 0' } }, children);
+          }
+
+          // ★2026-11-01 衡修：这里原来有两处会让壳崩
+          //   ① require('@deepseek-ai/dsh-client').settings.section —— 这个模块在 rc.5 不存在
+          //   ② factory 返回 { PatrolPanel: ... } 这种裸对象 —— 没有 apply
+          //   ⇒ cordis 报 invalid plugin, expect function or object with an "apply" method,
+          //      received object ⇒ web boot 挂 ⇒ 界面卡在 Loading plugins…（11:44 那次崩溃）
+          //   ⇒ 改成 rc.5 的 slots 契约（照 skyeye 已验证写法）
+          window.__chudaiPatrolClientLoaded = true;
+          return {
+            name: 'chudai-patrol-client',
+            inject: ['slots'],
+            apply: function (ctx) {
+              window.__chudaiPatrolApply = (window.__chudaiPatrolApply || 0) + 1;
+              // ★★2026-11-01 修（照 skyeye 已验证写法）★★
+              //   病：直接用 ctx.slots，apply 执行时 slots 可能还没注入
+              //   ★修法：ctx.inject(['slots'], cb) 异步等注入 + 兜底 ctx.slots
+              try {
+                ctx.inject(['slots'], function (native) {
+                  var slots = native && native.slots;
+                  try {
+                    if (slots && typeof slots.inject === 'function') {
+                      slots.inject('settings.section', function () {
+                        slots.register({
+                          name: 'settings.section',
+                          id: 'chudai-patrol',
+                          order: 93,
+                          label: function () { return '巡检司'; },
+                        }, PatrolPanel);
+                      });
+                    }
+                  } catch (_) { /* 降级不卡宿主 */ }
+                });
+              } catch (_) {
+                // ★兜底：直接拿 ctx.slots
+                try {
+                  var slotsF = ctx && ctx.slots;
+                  if (slotsF && typeof slotsF.inject === 'function') {
+                    slotsF.inject('settings.section', function () {
+                      slotsF.register({
+                        name: 'settings.section', id: 'chudai-patrol', order: 93,
+                        label: function () { return '巡检司'; },
+                      }, PatrolPanel);
+                    });
+                  }
+                } catch (_) { /* 降级 */ }
+              }
+            },
+          };
+        } catch (e) {
+          try { console.error('[chudai-patrol] client 加载失败:', e); } catch (_) {}
+          // ★catch 里也必须返回合法插件对象（原来 return {} 一样会崩壳）
+          return { name: 'chudai-patrol-client', inject: [], apply: function () {} };
+        }
+      },
+    });
+  } catch (e) {
+    try { console.error('[chudai-patrol] loader.load 失败:', e); } catch (_) {}
+  }
+})();
